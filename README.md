@@ -1,0 +1,1 @@
+Every player wants to play the last chapter quickly. If you're going to use the level system I wrote. Add this code to your login button. great now every time the player opens the app he will be able to quickly continue from the last level.
